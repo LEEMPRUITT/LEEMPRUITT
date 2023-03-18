@@ -1,0 +1,58 @@
+{
+    "preciseGeolocation": {
+        "modifiedTime": "2022-01-01T19:35:00Z",
+        "status": 1
+    },
+    "allowHumansToReadEmails": {
+        "modifiedTime": "2018-04-30T03:12:50Z",
+        "status": 0
+    },
+    "oathAsThirdParty": {
+        "modifiedTime": "2018-04-30T03:12:50Z",
+        "status": 1
+    },
+    "insightsFromCommunications": {
+        "modifiedTime": "2018-04-30T03:12:50Z",
+        "status": 1
+    },
+    "generalAnalysisConsent": {
+        "modifiedTime": "2018-04-30T03:12:50Z",
+        "status": 1
+    },
+    "nonEuConsent": {
+        "modifiedTime": "2018-04-30T03:12:50Z",
+        "status": 1
+    },
+    "sellPersonalInformation": {
+        "modifiedTime": "2018-04-30T03:12:50Z",
+        "status": 1
+    },
+    "accountMatching": {
+        "modifiedTime": "2018-04-30T03:12:50Z",
+        "status": 1
+    },
+    "crossDeviceMapping": {
+        "modifiedTime": "2018-04-30T03:12:50Z",
+        "status": 1
+    },
+    "contentPersonalization": {
+        "modifiedTime": "2018-04-30T03:12:50Z",
+        "status": 1
+    },
+    "thirdPartyContentEmbed": {
+        "modifiedTime": "2018-04-30T03:12:50Z",
+        "status": 1
+    },
+    "searchHistory": {
+        "modifiedTime": "2018-04-30T03:12:50Z",
+        "status": 1
+    },
+    "firstPartyAds": {
+        "modifiedTime": "2018-04-30T03:12:50Z",
+        "status": 1
+    },
+    "analysisOfCommunications": {
+        "modifiedTime": "2022-05-22T17:45:13Z",
+        "status": 0
+    }
+}
